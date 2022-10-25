@@ -18,6 +18,9 @@ Temperature (F) vs. Latitude
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
+
+![image](https://user-images.githubusercontent.com/106934375/197660072-159f2cbe-0929-473a-8d8e-3835ede972c0.png)
+
 After each plot add a sentence or too explaining what the code is and analyzing.
 
 Your next objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
@@ -30,6 +33,7 @@ Northern Hemisphere - Cloudiness (%) vs. Latitude
 Southern Hemisphere - Cloudiness (%) vs. Latitude
 Northern Hemisphere - Wind Speed (mph) vs. Latitude
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
 After each pair of plots explain what the linear regression is analyzing, any relationships you notice and any other analysis you may have.
 
 Your final notebook must:
